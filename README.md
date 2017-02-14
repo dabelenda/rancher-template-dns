@@ -12,3 +12,5 @@ The two in conjunction are used to provide a dynamic DNS for a single zone.
 ## Requirements
 
 For the DNS to work, a *single* rancher host must have the `dns=true` tag. If more than one has this tag, behaviour of the DNS is undefined.
+
+(c) All rights reserved. ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI, 2017

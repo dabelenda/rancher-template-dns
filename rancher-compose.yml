@@ -4,6 +4,7 @@ version: '2'
 catalog:
   name: "Bind9 DNS with Automatic Updates"
   version: "v1.0.0"
+  uuid: dns-0
   description: "Domain Name Server powered by Bind9"
   minimum_rancher_version: v1.2.0-pre4-rc1
   questions:
